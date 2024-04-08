@@ -8,6 +8,6 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or pr
 
 ## Author
 
-This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate about Python and its applications. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions.
+This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions.
 
 Happy coding!
