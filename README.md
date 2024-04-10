@@ -1,6 +1,11 @@
-# Python Repository
+## Python Repository
 
 Welcome to the 'Python' repository, your go-to resource for all things Python! Dive into a collection of Python scripts covering essential topics such as strings, conditionals (if, while, for), data structures (lists, tuples, sets, dictionaries), functions, file handling, modules, math, statistics, probability, regular expressions, object-oriented programming (OOP), NumPy, and pandas. Additionally, explore advanced topics like web development with Django, web scraping, and problem-solving techniques. Whether you're a beginner eager to learn Python or an experienced developer looking to enhance your skills, you'll find valuable content and examples here.
+
+## Projects
+
+["Tic Tac Toc"](https://github.com/elsayedelmandoh/tic_tac_toc)
+["Automated EDA"](https://github.com/elsayedelmandoh/automated_eda)
 
 ## Contributing
 
