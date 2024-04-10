@@ -11,11 +11,11 @@ Welcome to the 'Python' repository, your go-to resource for all things Python! D
 
 ## Data Structures And Algorithms In Python
 
-[Arabic Video](https://www.youtube.com/watch?v=rJyTfqdCvlk)
+[Litprog](https://www.youtube.com/watch?v=rJyTfqdCvlk)
 
-[English Course](https://app.datacamp.com/learn/courses/data-structures-and-algorithms-in-python)
+[Data Camp](https://app.datacamp.com/learn/courses/data-structures-and-algorithms-in-python)
 
-[English Video](https://www.youtube.com/watch?v=pkYVOmU3MgA)
+[Free Code Camp](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 
 
 ## Contributing
