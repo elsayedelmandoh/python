@@ -4,9 +4,9 @@ Welcome to the 'Python' repository, your go-to resource for all things Python! D
 
 ## Projects
 
-["Tic Tac Toc"](https://github.com/elsayedelmandoh/tic_tac_toc)
+[Tic Tac Toc](https://github.com/elsayedelmandoh/tic_tac_toc)
 
-["Automated EDA"](https://github.com/elsayedelmandoh/automated_eda)
+[Automated EDA](https://github.com/elsayedelmandoh/automated_eda)
 
 ## Contributing
 
